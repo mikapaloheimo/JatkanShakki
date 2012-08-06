@@ -5,7 +5,7 @@
 package jatkanshakki;
 
 /**
- *
+ *testausta
  * @author mkjpaloh
  */
 public class JatkanShakki {
