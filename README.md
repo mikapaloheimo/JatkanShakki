@@ -1,0 +1,4 @@
+JatkanShakki
+============
+
+peli - ohjelmoinnin harjoitus
